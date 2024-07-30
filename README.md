@@ -18,3 +18,12 @@ Group Members Matric Numbers and Names
 ![Screenshot 2024-07-30 012413](https://github.com/user-attachments/assets/595d1392-56dd-4963-98e6-e5d10645186a)
 
                                                
+PRODUCTION MATERIAL WE USED ALONG SIDE JAVA
+
+  Swing 
+  Filewriter 
+  Oop principle
+  Event handling
+
+Algorithms Of Code
+
