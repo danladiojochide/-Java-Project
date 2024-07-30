@@ -8,7 +8,7 @@ Group Members Matric Numbers and Names
 	John Manayi Goodness,          BHU/23/04/09/0092
 	Nze Emmanuella Kelechi,        BHU/22/04/05/0069
 	Kumdet  Kyenpia Favour,        BHU/22/04/05/0093
-        Offiong Ubongabasi Deborah,    BHU/22/04/05/0085
+     Offiong Ubongabasi Deborah,    BHU/22/04/05/0085
 
 
                                                    PPROJECT DESCRIPTION
@@ -20,10 +20,10 @@ Group Members Matric Numbers and Names
                                                
 PRODUCTION MATERIAL WE USED ALONG SIDE JAVA
 
-  Swing 
-  Filewriter 
-  Oop principle
-  Event handling
+           Swing 
+           Filewriter 
+           Oop principle
+           Event handling
 
-Algorithms Of Code
+Algorithms Of The Code
 
