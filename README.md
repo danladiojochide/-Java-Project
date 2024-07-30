@@ -25,43 +25,54 @@ PRODUCTION MATERIAL WE USED ALONG SIDE JAVA
            Oop principle
            Event handling
 
+
+
 Algorithms Of The Code
+
            Start
 Initialize Application
+
 	   Set the title, size, default close operation, and location for the main frame.
 	   Set an icon for the application.
 Initialize Components
+
 	   Create a JTextArea for text input and set its initial font, line wrap, and wrap style word properties.
 	   Add a KeyListener to the text area to update the status bar with text length and line count.
 	   Create a JScrollPane to add scroll functionality to the text area.
 	   Create a status bar to display text length and line count.
 	   Create a JMenuBar with menus for File, Edit, and Format operations.
  File Operations
+ 
 	    New: Clear the text area.
 	    Open: Open a file chooser dialog, read the selected file, and display its content in the text area.	Save: Open a file chooser 
             dialog, save the content of the text area to the selected file.
 	    Print: Print the content of the text area.
 	    Exit: Close the application.
-•  Edit Operations
-•	Copy: Copy the selected text to a clipboard variable.
-•	Paste: Paste the text from the clipboard at the current caret position in the text area.
-•	Cut: Cut the selected text and store it in the clipboard.
-•	Select All: Select all text in the text area.
-•  Format Operations
-•	Change Font Family: Display a list of font families, update the text area font to the selected font family.
-•	Change Font Style: Display a list of font styles (plain, bold, italic), update the text area font to the selected font style.
-•	Change Font Size: Display a list of font sizes, update the text area font to the selected font size.
-•  Update Status
-•	Calculate the length of the text and the number of lines in the text area.
-•	Update the status bar with the text length and line count.
-•  Create Menu Items
-•	Create menu items for all file, edit, and format operations.
-•	Add action listeners to menu items to perform the corresponding operations.
-•  Set Layout and Add Components
-•	Set the layout for the main frame.
-•	Add the scroll pane containing the text area to the center.
-•	Add the status panel containing the status label to the bottom.
-•	Set the menu bar to the main frame.
+Edit Operations
+
+	    Copy: Copy the selected text to a clipboard variable.
+	    Paste: Paste the text from the clipboard at the current caret position in the text area.
+	    Cut: Cut the selected text and store it in the clipboard.
+	    Select All: Select all text in the text area.
+Format Operations
+
+	Change Font Family: Display a list of font families, update the text area font to the selected font family.
+	Change Font Style: Display a list of font styles (plain, bold, italic), update the text area font to the selected font style.
+	Change Font Size: Display a list of font sizes, update the text area font to the selected font size.
+Update Status
+
+	Calculate the length of the text and the number of lines in the text area.
+	Update the status bar with the text length and line count.
+Create Menu Items
+
+	Create menu items for all file, edit, and format operations.
+	Add action listeners to menu items to perform the corresponding operations.
+Set Layout and Add Components
+
+	Set the layout for the main frame.
+	Add the scroll pane containing the text area to the center.
+	Add the status panel containing the status label to the bottom.
+	Set the menu bar to the main frame.
 
 
 Problems it solve:
