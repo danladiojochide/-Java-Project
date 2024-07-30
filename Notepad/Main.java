@@ -29,6 +29,8 @@ class NotepadFrame extends JFrame {
         setSize(980, 480);
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setLocationRelativeTo(null);
+        ImageIcon icon = new ImageIcon("pencil.png");
+        setIconImage(icon.getImage());
 
         initComponents();
     }
