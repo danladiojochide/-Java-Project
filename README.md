@@ -26,22 +26,22 @@ PRODUCTION MATERIAL WE USED ALONG SIDE JAVA
            Event handling
 
 Algorithms Of The Code
-•	Start
-•  Initialize Application
-•	Set the title, size, default close operation, and location for the main frame.
-•	Set an icon for the application.
-•  Initialize Components
-•	Create a JTextArea for text input and set its initial font, line wrap, and wrap style word properties.
-•	Add a KeyListener to the text area to update the status bar with text length and line count.
-•	Create a JScrollPane to add scroll functionality to the text area.
-•	Create a status bar to display text length and line count.
-•	Create a JMenuBar with menus for File, Edit, and Format operations.
-•  File Operations
-•	New: Clear the text area.
-•	Open: Open a file chooser dialog, read the selected file, and display its content in the text area.
-•	Save: Open a file chooser dialog, save the content of the text area to the selected file.
-•	Print: Print the content of the text area.
-•	Exit: Close the application.
+           Start
+Initialize Application
+	   Set the title, size, default close operation, and location for the main frame.
+	   Set an icon for the application.
+Initialize Components
+	   Create a JTextArea for text input and set its initial font, line wrap, and wrap style word properties.
+	   Add a KeyListener to the text area to update the status bar with text length and line count.
+	   Create a JScrollPane to add scroll functionality to the text area.
+	   Create a status bar to display text length and line count.
+	   Create a JMenuBar with menus for File, Edit, and Format operations.
+ File Operations
+	    New: Clear the text area.
+	    Open: Open a file chooser dialog, read the selected file, and display its content in the text area.	Save: Open a file chooser 
+            dialog, save the content of the text area to the selected file.
+	    Print: Print the content of the text area.
+	    Exit: Close the application.
 •  Edit Operations
 •	Copy: Copy the selected text to a clipboard variable.
 •	Paste: Paste the text from the clipboard at the current caret position in the text area.
